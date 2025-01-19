@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @princesspuckk
 - 👀 I’m interested in finance , investments and tech 
-- 🌱 I’m currently learning how to code in python hoping it will help me in tech 
-- 💞️ I’m looking to collaborate on .. not sure so far
+- 🌱 I’m currently learning how to code for quant roles
 - 😄 Pronouns: she/her
 
 
